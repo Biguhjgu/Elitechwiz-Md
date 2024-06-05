@@ -97,17 +97,17 @@
 4.  ***Try To Deploy for FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 
   
-5.  ***Try To  Deploy on [`HEROKU`]().  `FIXED! 💯`***
+5.  ***`Try To  Deploy on` [`HEROKU`]().  `FIXED! 💯`***
   
-6.  ***Try To Deploy on [`Replit`](). ([Tutorial]() )***
+6.  ***`Try To Deploy on` [`Replit`](). ([Tutorial]() )***
  
-7.  ***Deploy on [`Railway`](). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
+7.  ***`Deploy on` [`Railway`](). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
  
-8. ***Tr To Deploy on [`Koyeb`]()***
+8. ***`Try To Deploy on` [`Koyeb`]()***
  
-9. ***Try To Deploy on [`Glitch`]()***
+9. ***`Try To Deploy on` [`Glitch`]()***
 
-10. ***Try To Deploy on [`RENDER`]()***
+10. ***`Try To Deploy on` [`RENDER`]()***
  
 11. ***Get [`More Plugins`](https://github.com/Eliahhango/Elitechwiz-Md-Media)***
 ##
@@ -128,7 +128,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-   ## 🚀 `Bot Features`
+   ## 🚀 `These are some features of the bot(they are so many)`
+   
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
 | Multi-Device Support             | Operate the bot on multiple devices simultaneously     | ✅           | 2.0        |
@@ -153,9 +154,10 @@
 <h2 align="center"> ⚠️ NOTE  </h2>
 
    
-## 
 
 - *Elitechwiz-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account, there is no smoke without a fire.*
+- 
+- ## In that case, I'm not responsible for banning your account, `remember  there is no smoke without a fire` 😂.*
+- 
 - *Use Elitechwiz-Md at your own risk by keeping this warning in mind.*
 
