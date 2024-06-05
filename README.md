@@ -26,7 +26,7 @@
 
 
   <a aria-label="Elitechwiz_Md is free to use" href="https://youtube.com/@eliahhango" target="_blank">
-    <img alt="eliahhango Yt" src="https://img.shields.io/youtube/channel/subscribers/XM_DCbYXtlXCpB_8 target="_blank" />
+    <img alt="eliahhango Yt" src="https://img.shields.io/youtube/channel/subscribers/@eliahhango  target="_blank" />
   </a>
 
 </p>
@@ -89,15 +89,25 @@
 ## Deployment Methods
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`]() Or [`PARING CODE`](). Then `Go-to Whatapp>Three dots>Linked Devices`***
-2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
-3.  ***Click [`FORK`](https://github.com/Eliahhango/Elitechwiz-Md/fork) and `Star ⭐ Repository` for Courage.***
-4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-5.  ***Deploy on [`HEROKU`]().  `FIXED! ✔️`***
-6.  ***Deploy on [`Replit`](). ([Tutorial]() )***
-7.  ***Deploy on [`Railway`](). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
-8.  ***Deploy on [`Koyeb`]()***
-9. ***Deploy on [`Glitch`]()***
-10. ***Deploy on [`RENDER`]()***
+2.  
+3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
+4.  
+5.  ***Click [`FORK`](https://github.com/Eliahhango/Elitechwiz-Md/fork) and `Star ⭐ Repository` for Courage.***
+6.  
+7.  ***Try To Deploy for FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
+
+8.  
+9.  ***Try To  Deploy on [`HEROKU`]().  `FIXED! 💯`***
+10.  
+11.  ***Try To Deploy on [`Replit`](). ([Tutorial]() )***
+12.  
+13.  ***Deploy on [`Railway`](). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
+14.  ***Tr To Deploy on [`Koyeb`]()***
+15.  
+16. ***Try To Deploy on [`Glitch`]()***
+17. 
+18. ***Try To Deploy on [`RENDER`]()***
+19. 
 10. ***Get [`More Plugins`](https://github.com/Eliahhango/Elitechwiz-Md-Media)***
 ##
 
