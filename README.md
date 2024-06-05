@@ -161,4 +161,5 @@
 - 
 - *Use Elitechwiz-Md at your own risk by keeping this warning in mind.*
 ## SPECIAL THANKS TO:
->ELIAH & ALLY<
+>ELIAH & ALLY
+>As well as GOD
