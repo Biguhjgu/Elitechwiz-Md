@@ -2,7 +2,7 @@
 <p align="center"> A simple WhatsApp bot with rich features made by Eliah Hango. </p>
 
  
-<h3 align="center"> <a href="https://github.com/Eliahhango/Elitechwiz-Md-Media">🇹🇿 EXTERNAL PLUGINS 🇹🇿</a></h3> 
+<h3 align="center"> <a href="https://github.com/Eliahhango/Elitechwiz-Md-Media">🇹🇿 NO EXTERNAL PLUGINS 🇹🇿</a></h3> 
 
 <h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
 
@@ -160,4 +160,5 @@
 - ## In that case, I'm not responsible for banning your account, `remember  there is no smoke without a fire` 😂.*
 - 
 - *Use Elitechwiz-Md at your own risk by keeping this warning in mind.*
-
+## SPECIAL THANKS TO:
+>ELIAH & ALLY<
